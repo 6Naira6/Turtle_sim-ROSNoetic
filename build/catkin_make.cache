@@ -1,0 +1,2 @@
+assignment1_rt
+-DCATKIN_DEVEL_PREFIX=/catkinws/devel -DCMAKE_INSTALL_PREFIX=/catkinws/install -G Unix Makefiles

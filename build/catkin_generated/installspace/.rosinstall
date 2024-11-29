@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /catkinws/install/setup.sh
